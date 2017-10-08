@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/sasankyadavalli/messaging#readme",
   "dependencies": {
-    "express": "^4.16.1"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "request": "^2.83.0"
   }
 }
